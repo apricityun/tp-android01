@@ -7,7 +7,7 @@
 <p>여행 일정을 만들고 친구들과 일정을 공유하며 채팅으로 의견을 나누고 일정 수정 가능, 여행의 사진, 감정을 기록하는 앱 구현</p><br>
 
 > #### **Environment**
-Python, MySQL, SpringBoot, jsp
+<p>Python, MySQL, SpringBoot, jsp</p>
 <br>
 
 > #### **Folders or Files**
